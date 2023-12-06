@@ -1,6 +1,6 @@
 
 /**
- * @name Hora certa JNS
+ * Hora certa JNS
  * @author JavaNunes 
  * Usando o Jsoup rival do soup do Python
  * Esse programa pega as horas do site horariodebrasilia.org (hora certa) via Soup o valor html do horário
