@@ -1,0 +1,42 @@
+@options
+@packages
+-classpath
+'/home/ricardo/.m2/repository/org/jsoup/jsoup/1.17.1/jsoup-1.17.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/home/ricardo/NetBeansProjects/Horas/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/ricardo/NetBeansProjects/Horas/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Horas 1 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/ricardo/NetBeansProjects/Horas/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Horas 1 API'
+com.javanunes.horas
+/home/ricardo/.m2/repository/org/jsoup/jsoup/1.17.1/jsoup-1.17.1.jar = 1701846950000
+/home/ricardo/NetBeansProjects/Horas/src/main/java = 1701846877000
+/home/ricardo/NetBeansProjects/Horas/target/apidocs/index-all.html = 1701850298000
+/home/ricardo/NetBeansProjects/Horas/target/apidocs/allclasses-frame.html = 1701850298000
+/home/ricardo/NetBeansProjects/Horas/target/apidocs/overview-tree.html = 1701850297000
+/home/ricardo/NetBeansProjects/Horas/target/apidocs/script.js = 1701850298000
+/home/ricardo/NetBeansProjects/Horas/target/apidocs/constant-values.html = 1701850297000
+/home/ricardo/NetBeansProjects/Horas/target/apidocs/stylesheet.css = 1701850298000
+/home/ricardo/NetBeansProjects/Horas/target/apidocs/package-list = 1701850297000
+/home/ricardo/NetBeansProjects/Horas/target/apidocs/index.html = 1701850298000
+/home/ricardo/NetBeansProjects/Horas/target/apidocs/help-doc.html = 1701850298000
+/home/ricardo/NetBeansProjects/Horas/target/apidocs/allclasses-noframe.html = 1701850298000
+/home/ricardo/NetBeansProjects/Horas/target/apidocs/deprecated-list.html = 1701850298000
